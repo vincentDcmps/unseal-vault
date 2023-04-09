@@ -5,5 +5,5 @@ this program help to unsealed multiple vault instance in one time to do that he 
 ## to do
 
 - [ ] manage output in logger
-- [ ] create dedicated package for vault and consul function
+- [X] create dedicated package for vault and consul function
 
